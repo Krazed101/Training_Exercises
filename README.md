@@ -5,7 +5,7 @@
 #### Requirements
 
 1. Must have a server and client that can talk between each other.
-  - One needs to be in Python and the other in C
+	- One needs to be in Python and the other in C
 2. The server should be able to handle multiple clients at one time.
 3. The server should take the message from one client and sent to all others.
 
